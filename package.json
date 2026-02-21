@@ -1,0 +1,9 @@
+{
+  "name": "hello-world-demo",
+  "version": "0.0.1",
+  "description": "Basic hello world application for Node.js",
+  "private": false,
+  "dependencies": {
+    "express": "4.x"
+  }
+}
