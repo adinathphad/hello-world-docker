@@ -1,0 +1,9 @@
+# Prevent local dependencies from being copied into image
+node_modules
+
+# Ignore Git metadata
+.git
+.gitignore
+
+# Ignore logs
+npm-debug.log
